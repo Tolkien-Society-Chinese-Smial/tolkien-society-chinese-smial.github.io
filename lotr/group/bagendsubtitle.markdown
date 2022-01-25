@@ -26,8 +26,6 @@ categories: 袋底洞字幕组 简介
 | 2019年12月22日 | 动画《魔戒》《霍比特人》译制完成 |
 | 2020年2月2日  | 油管播主“西方人类”合作项目上线 |
 
-
-
 ## 主要成员
 <!-- 成员信息，通过导入personCard模板+组成员信息_data/groupMember/xxxx.yml -->
 {% include personCardRound.html content=site.data.groupMember.bagendSubtitleMember %}
