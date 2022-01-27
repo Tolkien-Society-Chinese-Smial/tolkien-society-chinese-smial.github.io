@@ -3,7 +3,7 @@ layout: blog
 title: 袋底洞字幕组
 author: 起名
 banner: /images/bagend-subtitle/banner.jpg
-date:   2020-02-21 01:04:00 +0800
+date:   2022-01-25 01:04:00 +0800
 categories: 袋底洞字幕组 简介
 ---
 
