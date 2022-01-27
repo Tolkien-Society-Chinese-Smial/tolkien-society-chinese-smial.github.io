@@ -50,7 +50,7 @@
 					</header>
 					<main class="blog">
 						{{ content }}
-						<img src="{{ page.img }}" class="img-fluid" alt="Image">
+						{% if defined page.img %}<img src="{{ page.img }}" class="img-fluid" alt="Image">{% endif %}
 					</main>
 				</div>
 			
