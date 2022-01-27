@@ -3,7 +3,7 @@ layout: blog
 title: 魔戒中文维基
 author: 起名
 banner: /images/lotr-chinese-wiki/banner-blog.png
-date:   2020-02-22 01:04:00 +0800
+date:   2022-01-27 01:04:00 +0800
 categories: 魔戒中文维基 简介
 ---
 
