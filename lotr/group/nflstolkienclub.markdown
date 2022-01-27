@@ -2,9 +2,10 @@
 layout: blog
 title: 南外托尔金社
 author: 仲夏之雪
-banner: /images/nfls-tolkien-club/yimai.jpg
+banner: /images/nfls-tolkien-club/banner-blog.png
 date:   2022-01-27 15:40:00 +0800
 categories: 南外托尔金社 简介
+img: /images/nfls-tolkien-club/yimai.jpg
 ---
 
 ## 简介
