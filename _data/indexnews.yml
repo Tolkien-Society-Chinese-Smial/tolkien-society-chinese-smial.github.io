@@ -2,39 +2,43 @@
   groupIcon: fa fa-newspaper
   detailsIcon: far fa-comment-alt
   details:
-  - title: 【最新资讯】组长在搞大事，详见……
+  - title: 待搬去react后更新
     url: /
-  - title: 【听风说雨】上个月的新闻出了吗？
+  - title: ……
     url: /
-  - title: 组长被称为灰袍巫师，其因何在？
+  - title: 希望一切顺利
     url: /
-  - title: 今天也在吹爆美编！
+  - title: ……
     url: /
-  - title: 新闻组疯狂推送译林，是不是又拐了新人！
+  - title: 加油写代码
     url: /
 - group: BagEnd字幕组
   groupIcon: fas fa-dungeon
   detailsIcon: fas fa-leaf
   details:
-  - title: 字母组将于近日放出大新闻
+  - title: 待搬去react后更新
     url: /
-  - title: 字幕组宣布将翻译古早动画片
+  - title: ……
     url: /
-  - title: 【最新资讯】播客授权
+  - title: 希望一切顺利
     url: /
-  - title: 开工油管快乐科普
+  - title: ……
+    url: /
+  - title: 加油写代码
     url: /
 - group: 魔戒中文维基
   groupIcon: fas fa-ring
   detailsIcon: fas fa-paper-plane
   details:
-  - title: 多谷大今天扎双马尾了吗
+  - title: 待搬去react后更新
     url: /
-  - title: 今天灰机的安卓版APP出了吗
+  - title: ……
     url: /
-  - title: 今天菠萝更新了！
+  - title: 希望一切顺利
     url: /
-  - title: 今天我拖稿了！
+  - title: ……
+    url: /
+  - title: 加油写代码
     url: /
 - group: 南外托尔金社
   groupIcon: fab fa-centos
@@ -50,21 +54,15 @@
   groupIcon: fab fa-tumblr
   detailsIcon: fab fa-canadian-maple-leaf
   details:
-  - title: 今年除夕有爆吧吗
+  - title: 待搬去react后更新
     url: /
-  - title: 今天贴吧恢复旧贴了吗
+  - title: ……
     url: /
-  - title: 今天盗门大翻译了吗
+  - title: 希望一切顺利
     url: /
-- group: 中土con
-  groupIcon: fas fa-store-alt
-  detailsIcon: fas fa-walking
-  details:
-  - title: 往期内容回顾
+  - title: ……
     url: /
-  - title: 活动报名
-    url: /
-  - title: 宣传
+  - title: 加油写代码
     url: /
 - group: 中土相关墙
   groupIcon: fas fa-warehouse
